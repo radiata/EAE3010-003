@@ -1,0 +1,1369 @@
+﻿Log file open, 08/31/18 01:30:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Ass3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.410984
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.079s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6850K CPU @ 3.60GHz, GPU: AMD Radeon HD 6900 Series
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal
+LogInit: Base Directory: E:/Games/Epic/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.31-07.30.00:341][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.31-07.30.00:341][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.31-07.30.00:358][  0]LogHAL: Display: Platform has ~ 32 GB [34256433152 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.31-07.30.00:358][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.31-07.30.00:358][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.31-07.30.00:359][  0]LogInit: Computer: DESKTOP-LT9HR2C
+[2018.08.31-07.30.00:359][  0]LogInit: User: msb92
+[2018.08.31-07.30.00:359][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.08.31-07.30.00:359][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.08.31-07.30.00:359][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.08.31-07.30.00:359][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.31-07.30.00:359][  0]LogMemory: Process Physical Memory: 101.81 MB used, 101.81 MB peak
+[2018.08.31-07.30.00:359][  0]LogMemory: Process Virtual Memory: 94.00 MB used, 94.00 MB peak
+[2018.08.31-07.30.00:359][  0]LogMemory: Physical Memory: 10783.97 MB used,  21885.51 MB free, 32669.48 MB total
+[2018.08.31-07.30.00:359][  0]LogMemory: Virtual Memory: 4665.57 MB used,  21885.51 MB free, 134217728.00 MB total
+[2018.08.31-07.30.00:382][  0]LogInit: Using OS detected language (en-US).
+[2018.08.31-07.30.00:382][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.31-07.30.00:382][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.31-07.30.00:784][  0]LogStreaming: Display: Took  0.403s to InitEngineTextLocalization.
+[2018.08.31-07.30.00:785][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.31-07.30.00:828][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.31-07.30.00:828][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.31-07.30.00:994][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.31-07.30.00:994][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.31-07.30.01:008][  0]LogD3D11RHI:    0. 'AMD Radeon HD 6900 Series' (Feature Level 11_0)
+[2018.08.31-07.30.01:008][  0]LogD3D11RHI:       2032/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.08.31-07.30.01:068][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.08.31-07.30.01:068][  0]LogD3D11RHI:       8079/0/16334 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2018.08.31-07.30.01:070][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.31-07.30.01:070][  0]LogD3D11RHI:       0/0/16334 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.31-07.30.01:070][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.31-07.30.01:077][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.31-07.30.01:078][  0]LogD3D11RHI:     GPU DeviceId: 0x6719 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.31-07.30.01:078][  0]LogWindows: EnumDisplayDevices:
+[2018.08.31-07.30.01:078][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.08.31-07.30.01:078][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.08.31-07.30.01:078][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.08.31-07.30.01:078][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.08.31-07.30.01:079][  0]LogWindows:    4. 'AMD Radeon HD 6900 Series' (P:1 D:1)
+[2018.08.31-07.30.01:079][  0]LogWindows:    5. 'AMD Radeon HD 6900 Series' (P:0 D:1)
+[2018.08.31-07.30.01:079][  0]LogWindows:    6. 'AMD Radeon HD 6900 Series' (P:0 D:0)
+[2018.08.31-07.30.01:080][  0]LogWindows:    7. 'AMD Radeon HD 6900 Series' (P:0 D:0)
+[2018.08.31-07.30.01:080][  0]LogWindows:    8. 'AMD Radeon HD 6900 Series' (P:0 D:0)
+[2018.08.31-07.30.01:080][  0]LogWindows:    9. 'AMD Radeon HD 6900 Series' (P:0 D:0)
+[2018.08.31-07.30.01:080][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2018.08.31-07.30.01:080][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 6900 Series
+[2018.08.31-07.30.01:081][  0]LogD3D11RHI:   Driver Version: 15.201.1151.1008 (internal:15.201.1151.1008, unified:15.201.1151.1008)
+[2018.08.31-07.30.01:081][  0]LogD3D11RHI:      Driver Date: 11-4-2015
+[2018.08.31-07.30.01:081][  0]LogRHI: Texture pool is 1422 MB (70% of 2032 MB)
+[2018.08.31-07.30.01:161][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.08.31-07.30.01:169][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.31-07.30.01:180][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.08.31-07.30.01:180][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../../../Projects/3010/Ass3/Intermediate/Shaders/WorkingDirectory/18012/).
+[2018.08.31-07.30.01:181][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/msb92/AppData/Local/Temp/UnrealShaderWorkingDir/BFD91D39445C8422BD80C0AD4BBAF7D1/'.
+[2018.08.31-07.30.01:427][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.31-07.30.01:438][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.31-07.30.01:450][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.31-07.30.01:462][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.31-07.30.01:474][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.31-07.30.01:486][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.31-07.30.01:497][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.31-07.30.01:509][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.31-07.30.01:514][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.31-07.30.01:584][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.31-07.30.01:642][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.31-07.30.01:642][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.31-07.30.01:663][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.31-07.30.01:663][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.31-07.30.01:674][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.31-07.30.01:685][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.31-07.30.01:696][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.31-07.30.01:707][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.31-07.30.01:715][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.31-07.30.01:716][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.31-07.30.01:761][  0]LogXGEController: Cleaning working directory: C:/Users/msb92/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.31-07.30.01:761][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.31-07.30.01:761][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.31-07.30.01:761][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.31-07.30.02:446][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.31-07.30.02:516][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/msb92/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.31-07.30.02:517][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/msb92/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.31-07.30.02:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Projects/3010/Ass3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.31-07.30.02:517][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.31-07.30.02:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Projects/3010/Ass3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.31-07.30.02:517][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.31-07.30.02:531][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.31-07.30.02:543][  0]LogDerivedDataCache: Using Local data cache path C:/Users/msb92/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.31-07.30.02:543][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.31-07.30.02:543][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.31-07.30.02:562][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.31-07.30.02:563][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.31-07.30.02:564][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.31-07.30.02:632][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2018.08.31-07.30.02:942][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.31-07.30.03:067][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.31-07.30.03:070][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.31-07.30.03:070][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.31-07.30.03:070][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.31-07.30.03:070][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.31-07.30.03:095][  0]LogNetVersion: Ass3 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1849876466)
+[2018.08.31-07.30.03:629][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.111882 seconds
+[2018.08.31-07.30.03:636][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.31-07.30.03:636][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.08.31-07.30.03:636][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.31-07.30.04:407][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.31-07.30.04:421][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.31-07.30.04:590][  0]SourceControl: Source control is disabled
+[2018.08.31-07.30.04:590][  0]SourceControl: Source control is disabled
+[2018.08.31-07.30.04:591][  0]SourceControl: Source control is disabled
+[2018.08.31-07.30.04:592][  0]SourceControl: Source control is disabled
+[2018.08.31-07.30.04:783][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.31-07.30.04:891][  0]LogOcInput: OculusInput pre-init called
+[2018.08.31-07.30.04:948][  0]LogEngine: Initializing Engine...
+[2018.08.31-07.30.04:948][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.31-07.30.04:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.31-07.30.04:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.31-07.30.04:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.31-07.30.04:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.31-07.30.05:180][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.31-07.30.05:190][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.31-07.30.05:234][  0]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.08.31-07.30.05:263][  0]LogInit: FAudioDevice initialized.
+[2018.08.31-07.30.05:263][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.31-07.30.05:330][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/msb92/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.31-07.30.05:335][  0]LogInit: Texture streaming: Enabled
+[2018.08.31-07.30.05:350][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.31-07.30.05:350][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={9F0D268F-491E-5105-9303-DF8D70F46BC4}
+[2018.08.31-07.30.05:362][  0]LogInit: Transaction tracking system initialized
+[2018.08.31-07.30.05:378][  0]BlueprintLog: New page: Editor Load
+[2018.08.31-07.30.05:450][  0]LocalizationService: Localization service is disabled
+[2018.08.31-07.30.05:682][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.31-07.30.05:682][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.31-07.30.05:682][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.31-07.30.05:682][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.31-07.30.05:682][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.31-07.30.05:682][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.31-07.30.05:682][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.31-07.30.05:782][  0]LogFileCache: Scanning file cache for directory 'E:/Projects/3010/Ass3/Content/' took 0.01s
+[2018.08.31-07.30.05:782][  0]SourceControl: Source control is disabled
+[2018.08.31-07.30.05:987][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.31-07.34.53:319][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.08.31-07.34.53:321][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.08.31-07.34.53:361][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.08.31-07.34.56:720][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2018.08.31-07.34.56:722][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.08.31-07.34.56:750][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.08.31-07.34.56:751][  0]Cmd: MAP LOAD FILE="../../../../../../Projects/3010/Ass3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.31-07.34.56:752][  0]LightingResults: New page: Lighting Build
+[2018.08.31-07.34.56:754][  0]MapCheck: New page: Map Check
+[2018.08.31-07.34.56:754][  0]LightingResults: New page: Lighting Build
+[2018.08.31-07.34.56:821][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.31-07.34.56:827][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.31-07.34.56:852][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.31-07.34.56:897][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.467ms to complete.
+[2018.08.31-07.34.56:897][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.146
+[2018.08.31-07.34.56:952][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.31-07.34.56:959][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.31-07.34.56:965][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.31-07.34.56:972][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.31-07.34.56:976][  0]LogCollectionManager: Loaded 0 collections in 0.001023 seconds
+[2018.08.31-07.34.57:022][  0]LogFileCache: Scanning file cache for directory 'E:/Projects/3010/Ass3/Saved/Collections/' took 0.01s
+[2018.08.31-07.34.57:022][  0]LogFileCache: Scanning file cache for directory 'E:/Projects/3010/Ass3/Content/Developers/msb92/Collections/' took 0.01s
+[2018.08.31-07.34.57:022][  0]LogFileCache: Scanning file cache for directory 'E:/Projects/3010/Ass3/Content/Collections/' took 0.01s
+[2018.08.31-07.34.57:022][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.31-07.34.57:032][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2572 classes and 603 folders.
+[2018.08.31-07.34.57:038][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.31-07.34.57:073][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.31-07.34.57:078][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.31-07.34.57:090][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.31-07.34.57:095][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.31-07.34.57:140][  0]LogRenderer: Reallocating scene render targets to support 1616x836 Format 10 NumSamples 1 (Frame:1).
+[2018.08.31-07.34.57:367][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.31-07.34.57:389][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.08.31-07.34.57:422][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.31-07.34.57:422][  0]LogLoad: (Engine Initialization) Total time: 298.73 seconds
+[2018.08.31-07.34.57:422][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.31-07.34.57:462][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.31-07.34.57:496][  1]LogAssetRegistry: Asset discovery search completed in 294.8857 seconds
+[2018.08.31-07.34.57:498][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.31-07.34.57:498][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.08.31-07.35.27:950][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.36.20:114][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.36.23:419][502]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.08.31-07.36.25:718][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.36.40:313][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.36.53:288][690]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.31-07.37.01:439][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.37.26:961][ 35]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2018.08.31-07.37.31:466][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.37.44:040][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.37.57:449][395]Cmd: DUPLICATE
+[2018.08.31-07.37.57:450][395]Cmd: ACTOR DUPLICATE
+[2018.08.31-07.37.58:672][441]Cmd: TRANSACTION UNDO
+[2018.08.31-07.37.58:672][441]LogEditorTransaction: Undo Duplicate Actors
+[2018.08.31-07.37.58:708][441]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush20_30.BrushComponent0) Component already registered.
+[2018.08.31-07.37.58:783][441]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.31-07.38.00:083][483]Cmd: EDIT COPY
+[2018.08.31-07.38.00:371][494]Cmd: EDIT PASTE
+[2018.08.31-07.38.02:971][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.38.08:896][847]LogEditorViewport: Clicking Background
+[2018.08.31-07.38.15:243][115]LogEditorViewport: Clicking Background
+[2018.08.31-07.38.16:610][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.38.24:094][488]Cmd: EDIT PASTE
+[2018.08.31-07.38.34:181][899]LogEditorViewport: Clicking Background
+[2018.08.31-07.38.34:699][920]LogEditorViewport: Clicking Background
+[2018.08.31-07.38.35:518][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.38.37:419][ 46]Cmd: EDIT PASTE
+[2018.08.31-07.38.56:560][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.39.10:138][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.39.14:514][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.39.18:205][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.39.33:634][153]Cmd: EDIT COPY
+[2018.08.31-07.39.37:199][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.39.41:500][481]Cmd: EDIT PASTE
+[2018.08.31-07.39.43:331][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.31-07.40.01:800][381]Cmd: TRANSACTION UNDO
+[2018.08.31-07.40.01:800][381]LogEditorTransaction: Undo Move Actors
+[2018.08.31-07.40.02:562][400]Cmd: TRANSACTION UNDO
+[2018.08.31-07.40.02:562][400]LogEditorTransaction: Undo Edit Brush Type
+[2018.08.31-07.40.09:212][653]Cmd: DELETE
+[2018.08.31-07.40.09:212][653]Cmd: ACTOR DELETE
+[2018.08.31-07.40.09:221][653]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.40.09:273][653]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.08.31-07.40.15:339][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.40.25:272][300]LogSlate: Window 'Select Path' being destroyed
+[2018.08.31-07.40.25:298][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.31-07.40.25:520][300]LogStaticMesh: Building static mesh Box_Brush_StaticMesh...
+[2018.08.31-07.40.25:573][300]LogStaticMesh: Built static mesh [0.05s] /Game/Box_Brush_StaticMesh.Box_Brush_StaticMesh
+[2018.08.31-07.40.25:580][300]LogActorFactory: Actor Factory created Box_Brush_StaticMesh
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush2' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush3' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush4' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush5' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush6' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush7_9' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush8' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush9' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush10' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush11' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush12' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush13' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush14' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush15' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush17' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush18_25' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush19_27' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush20_30' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush21_31' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush22' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush23' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush24' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:618][300]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush25' is marked pending kill and cannot be converted
+[2018.08.31-07.40.25:619][300]EditorErrors: New page: Actor Reattachment
+[2018.08.31-07.40.33:085][586]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.31-07.40.43:419][984]Cmd: TRANSACTION UNDO
+[2018.08.31-07.40.43:419][984]LogEditorTransaction: Undo Move Actors
+[2018.08.31-07.40.50:014][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.40.51:806][314]Cmd: TRANSACTION UNDO
+[2018.08.31-07.40.51:806][314]LogEditorTransaction: Undo Set Actor Visibility
+[2018.08.31-07.40.52:245][348]Cmd: TRANSACTION UNDO
+[2018.08.31-07.40.52:245][348]LogEditorTransaction: Undo Set Actor Visibility
+[2018.08.31-07.40.52:710][398]Cmd: TRANSACTION UNDO
+[2018.08.31-07.40.52:710][398]LogEditorTransaction: Undo Convert Actors
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.08.31-07.40.52:731][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 23
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 24
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 25
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 26
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 27
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 28
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 29
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 30
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 31
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 32
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 33
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 34
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 35
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 36
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 37
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 38
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 39
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 40
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 41
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 42
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 43
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 44
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 45
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 46
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 47
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 48
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 49
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 50
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 51
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 52
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 53
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 54
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 55
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 56
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 57
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 58
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304, Buffer: 0, Buffer Size: 0, Element: 59
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304' invalid (2233 verts, 0 indices).
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_304.BodySetup_0 when we are unable to.
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.08.31-07.40.52:732][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 23
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 24
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 25
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 26
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 27
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 28
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 29
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 30
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 31
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 32
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 33
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 34
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 35
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 36
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 37
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 38
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 39
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 40
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 41
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 42
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 43
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 44
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 45
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 46
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 47
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 48
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 49
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 50
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 51
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 52
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 53
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 54
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 55
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 56
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 57
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 58
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305, Buffer: 0, Buffer Size: 0, Element: 59
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305' invalid (2233 verts, 0 indices).
+[2018.08.31-07.40.52:733][398]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_305.BodySetup_0 when we are unable to.
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_306, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_306, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_306, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_306, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_306, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_306, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_306' invalid (2233 verts, 0 indices).
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_306.BodySetup_0 when we are unable to.
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 23
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 24
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 25
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 26
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 27
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 28
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 29
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 30
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 31
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 32
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 33
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 34
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 35
+[2018.08.31-07.40.52:734][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 36
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 37
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 38
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 39
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 40
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 41
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 42
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 43
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 44
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 45
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 46
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 47
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 48
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 49
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 50
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 51
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 52
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 53
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 54
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 55
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 56
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 57
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 58
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307, Buffer: 0, Buffer Size: 0, Element: 59
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307' invalid (2233 verts, 0 indices).
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_307.BodySetup_0 when we are unable to.
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 23
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 24
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 25
+[2018.08.31-07.40.52:735][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 26
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 27
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 28
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 29
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 30
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 31
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 32
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 33
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 34
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 35
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 36
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 37
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 38
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 39
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 40
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 41
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 42
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 43
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 44
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 45
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 46
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 47
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 48
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 49
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 50
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 51
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 52
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 53
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 54
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 55
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 56
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 57
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 58
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308, Buffer: 0, Buffer Size: 0, Element: 59
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308' invalid (2233 verts, 0 indices).
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_308.BodySetup_0 when we are unable to.
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_309, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_309, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_309, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_309, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_309, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_309, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_309' invalid (2233 verts, 0 indices).
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_309.BodySetup_0 when we are unable to.
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_310, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_310, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_310, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.08.31-07.40.52:736][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_310, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.08.31-07.40.52:737][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_310, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.08.31-07.40.52:737][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_310, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.08.31-07.40.52:737][398]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_310' invalid (2233 verts, 0 indices).
+[2018.08.31-07.40.52:737][398]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_310.BodySetup_0 when we are unable to.
+[2018.08.31-07.40.52:737][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_311, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.08.31-07.40.52:737][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_311, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.08.31-07.40.52:737][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_311, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.08.31-07.40.52:737][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_311, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.08.31-07.40.52:737][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_311, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.08.31-07.40.52:737][398]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_311, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.08.31-07.40.52:737][398]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_311' invalid (2233 verts, 0 indices).
+[2018.08.31-07.40.52:737][398]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_311.BodySetup_0 when we are unable to.
+[2018.08.31-07.40.57:967][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.41.14:374][587]Cmd: EDIT COPY
+[2018.08.31-07.41.27:989][226]Cmd: EDIT PASTE
+[2018.08.31-07.41.31:235][352]Cmd: EDIT CUT
+[2018.08.31-07.41.31:259][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:259][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:259][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:260][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:260][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:260][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:261][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:261][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:261][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:262][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:262][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:262][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:263][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:263][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:263][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:264][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:264][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:264][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:265][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:265][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:265][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:265][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:266][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:266][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:266][352]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.41.31:318][352]LogEditorActor: Deleted 25 Actors (0.072 secs)
+[2018.08.31-07.41.40:702][ 89]Cmd: EDIT PASTE
+[2018.08.31-07.41.46:169][305]Cmd: TRANSACTION UNDO
+[2018.08.31-07.41.46:169][305]LogEditorTransaction: Undo Paste
+[2018.08.31-07.41.46:230][305]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2018.08.31-07.41.46:231][305]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2018.08.31-07.41.46:232][305]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CylinderBrush3.BrushComponent0) Component already registered.
+[2018.08.31-07.41.46:232][305]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush27.BrushComponent0) Component already registered.
+[2018.08.31-07.41.50:032][445]Cmd: TRANSACTION UNDO
+[2018.08.31-07.41.50:032][445]LogEditorTransaction: Undo Cut
+[2018.08.31-07.41.50:094][445]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.08.31-07.41.50:095][445]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2018.08.31-07.42.19:394][169]LogEditorViewport: Clicking Background
+[2018.08.31-07.42.28:256][525]Cmd: TRANSACTION UNDO
+[2018.08.31-07.42.28:256][525]LogEditorTransaction: Undo Move Actors
+[2018.08.31-07.42.28:306][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush18_25.BrushComponent0) Component already registered.
+[2018.08.31-07.42.28:306][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2018.08.31-07.42.28:306][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2018.08.31-07.42.28:307][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2018.08.31-07.42.28:307][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.08.31-07.42.28:309][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.08.31-07.42.28:309][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2018.08.31-07.42.28:309][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2018.08.31-07.42.28:310][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush41.BrushComponent0) Component already registered.
+[2018.08.31-07.42.28:310][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2018.08.31-07.42.28:311][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush29.BrushComponent0) Component already registered.
+[2018.08.31-07.42.28:311][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush27.BrushComponent0) Component already registered.
+[2018.08.31-07.42.28:311][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush37.BrushComponent0) Component already registered.
+[2018.08.31-07.42.28:312][525]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2018.08.31-07.42.40:233][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.42.59:852][848]Cmd: TRANSACTION UNDO
+[2018.08.31-07.42.59:852][848]LogEditorTransaction: Undo Rotate Actors
+[2018.08.31-07.42.59:901][848]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush18_25.BrushComponent0) Component already registered.
+[2018.08.31-07.42.59:901][848]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2018.08.31-07.42.59:902][848]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2018.08.31-07.42.59:902][848]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2018.08.31-07.42.59:902][848]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.08.31-07.42.59:904][848]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.08.31-07.42.59:904][848]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2018.08.31-07.42.59:904][848]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2018.08.31-07.42.59:905][848]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2018.08.31-07.42.59:906][848]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush29.BrushComponent0) Component already registered.
+[2018.08.31-07.42.59:906][848]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush27.BrushComponent0) Component already registered.
+[2018.08.31-07.42.59:907][848]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush37.BrushComponent0) Component already registered.
+[2018.08.31-07.42.59:907][848]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2018.08.31-07.43.02:279][928]LogEditorViewport: Clicking Background
+[2018.08.31-07.43.04:528][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.43.31:758][446]LogSlate: Window 'Select Path' being destroyed
+[2018.08.31-07.43.31:968][446]LogStaticMesh: Building static mesh Box_Brush30_StaticMesh...
+[2018.08.31-07.43.31:984][446]LogStaticMesh: Built static mesh [0.02s] /Game/Box_Brush30_StaticMesh.Box_Brush30_StaticMesh
+[2018.08.31-07.43.31:991][446]LogActorFactory: Actor Factory created Box_Brush30_StaticMesh
+[2018.08.31-07.43.32:044][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush30_32' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:044][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush31' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:044][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush32' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush33' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush34' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush35' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush36' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush37' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush38' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush39' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush40' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush41' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush42' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush43' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush44' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush45' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush46' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush47' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush48' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush49' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush50' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush51' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush52' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush53' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush54' is marked pending kill and cannot be converted
+[2018.08.31-07.43.32:045][446]EditorErrors: New page: Actor Reattachment
+[2018.08.31-07.43.37:729][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.43.45:858][121]LogEditorViewport: Clicking Background
+[2018.08.31-07.43.46:899][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.44.02:524][926]MapCheck: New page: Map Check
+[2018.08.31-07.44.02:540][926]Cmd: MAP REBUILD ALLVISIBLE
+[2018.08.31-07.44.02:548][926]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.08.31-07.44.02:677][926]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.08.31-07.44.03:825][926]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.31-07.44.03:825][926]TextureStreamingBuild: Display: Compiling optional shaders took 1.170 seconds.
+[2018.08.31-07.44.03:840][926]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2018.08.31-07.44.03:869][926]TextureStreamingBuild: Display: Build Texture Streaming took 0.028 seconds.
+[2018.08.31-07.44.03:905][926]LightingResults: New page: Lighting Build - Aug 30, 2018, 7:44:03 PM
+[2018.08.31-07.44.04:040][926]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.31-07.44.04:206][926]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.31-07.44.04:218][926]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.31-07.44.04:734][926]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.31-07.44.04:734][926]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18012
+[2018.08.31-07.44.08:034][926]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.08.31-07.44.08:035][926]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.31-07.44.08:035][926]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.31-07.44.08:035][926]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.31-07.44.08:035][926]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.31-07.44.08:035][926]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.31-07.44.08:263][926]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.08.31-07.44.08:264][926]MapCheck: New page: ThirdPersonExampleMap - Aug 30, 2018, 7:44:08 PM
+[2018.08.31-07.44.08:264][926]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.08.31-07.44.08:323][926]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 59.868ms to complete.
+[2018.08.31-07.44.08:346][926]LogEditorBuildUtils: Build time 0:05
+[2018.08.31-07.44.08:401][926]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.08.31-07.44.08:420][926]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.08.31-07.44.08:461][927]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.31-07.44.10:543][949]LogSlate: Window 'Message Log' being destroyed
+[2018.08.31-07.44.10:549][949]LogSlate: Window 'Message Log' being destroyed
+[2018.08.31-07.44.11:641][988]Job is a success!
+[2018.08.31-07.44.11:775][989]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2018.08.31-07.44.11:775][989]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.08.31-07.44.11:775][989]LogVolumetricLightmapImport:      BrickData 10x5x5 = 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.08.31-07.44.11:775][989]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.31-07.44.11:775][989]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2018.08.31-07.44.11:775][989]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2018.08.31-07.44.11:775][989]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.08.31-07.44.11:866][989]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2018.08.31-07.44.11:866][989]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.08.31-07.44.11:866][989]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.08.31-07.44.11:866][989]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 8X4)
+[2018.08.31-07.44.11:866][989]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 8X8)
+[2018.08.31-07.44.11:867][989]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 8X8)
+[2018.08.31-07.44.11:867][989]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X32)
+[2018.08.31-07.44.11:905][989]Lightmass on DESKTOP-LT9HR2C: 1.53 sec total, 131 ms importing, 17 ms setup, 701 ms photons, 665 ms processing, 0 ms extra exporting [231/231 mappings]. Threads: 6.82 sec total, 34 ms processing.
+[2018.08.31-07.44.11:949][989]LogStaticLightingSystem: Illumination: 7.99 sec (32 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2018.08.31-07.44.11:949][989]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.0 MB streaming, 0.2 MB non-streaming), 4 textures
+[2018.08.31-07.44.11:949][989]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.08.31-07.44.12:042][989]DumpUnbuiltLightIteractions
+[2018.08.31-07.44.12:042][989]Lights with unbuilt interactions: 0
+[2018.08.31-07.44.12:042][989]
+[2018.08.31-07.44.12:042][989]Primitives with unbuilt interactions: 0
+[2018.08.31-07.44.12:258][990]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.31-07.44.12:258][990]MapCheck: New page: ThirdPersonExampleMap - Aug 30, 2018, 7:44:12 PM
+[2018.08.31-07.44.12:302][990]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.73ms to complete.
+[2018.08.31-07.44.18:791][729]MapCheck: New page: Map Check
+[2018.08.31-07.44.18:812][729]Cmd: MAP REBUILD ALLVISIBLE
+[2018.08.31-07.44.18:812][729]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.08.31-07.44.18:864][729]LightingResults: New page: Lighting Build - Aug 30, 2018, 7:44:18 PM
+[2018.08.31-07.44.18:871][729]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.31-07.44.18:876][729]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.31-07.44.18:876][729]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.31-07.44.18:876][729]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.31-07.44.18:876][729]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18012
+[2018.08.31-07.44.23:450][729]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.08.31-07.44.23:451][729]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.31-07.44.23:451][729]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.31-07.44.23:451][729]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.31-07.44.23:451][729]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.31-07.44.23:451][729]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.31-07.44.23:630][729]LogEditorBuildUtils: Build time 0:04
+[2018.08.31-07.44.25:367][814]Job is a success!
+[2018.08.31-07.44.36:705][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.44.36:901][351]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2018.08.31-07.44.36:901][351]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.08.31-07.44.36:901][351]LogVolumetricLightmapImport:      BrickData 10x5x5 = 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.08.31-07.44.36:901][351]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.31-07.44.36:901][351]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2018.08.31-07.44.36:901][351]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2018.08.31-07.44.36:901][351]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.08.31-07.44.36:944][351]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2018.08.31-07.44.36:944][351]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.08.31-07.44.36:944][351]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.08.31-07.44.36:944][351]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 8X4)
+[2018.08.31-07.44.36:944][351]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 8X8)
+[2018.08.31-07.44.36:944][351]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 8X8)
+[2018.08.31-07.44.36:944][351]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X32)
+[2018.08.31-07.44.36:954][351]Lightmass on DESKTOP-LT9HR2C: 12.8 sec total, 129 ms importing, 18 ms setup, 700 ms photons, 12.0 sec processing, 0 ms extra exporting [231/231 mappings]. Threads: 2:11 min total, 37 ms processing.
+[2018.08.31-07.44.36:991][351]LogStaticLightingSystem: Illumination: 6.64 sec (8 ms encoding lightmaps, 7 ms encoding shadowmaps)
+[2018.08.31-07.44.36:991][351]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.0 MB streaming, 0.2 MB non-streaming), 4 textures
+[2018.08.31-07.44.36:991][351]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.08.31-07.44.37:466][351]DumpUnbuiltLightIteractions
+[2018.08.31-07.44.37:466][351]Lights with unbuilt interactions: 0
+[2018.08.31-07.44.37:466][351]
+[2018.08.31-07.44.37:466][351]Primitives with unbuilt interactions: 0
+[2018.08.31-07.44.37:620][352]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.31-07.44.37:620][352]MapCheck: New page: ThirdPersonExampleMap - Aug 30, 2018, 7:44:37 PM
+[2018.08.31-07.44.37:665][352]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.836ms to complete.
+[2018.08.31-07.44.48:963][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.45.00:715][389]LogEditorViewport: Clicking Background
+[2018.08.31-07.45.01:621][425]Cmd: TRANSACTION UNDO
+[2018.08.31-07.45.01:621][425]LogEditorTransaction: Undo Clicking Background
+[2018.08.31-07.45.02:096][439]Cmd: TRANSACTION UNDO
+[2018.08.31-07.45.02:096][439]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.31-07.45.02:895][466]Cmd: TRANSACTION UNDO
+[2018.08.31-07.45.02:895][466]LogEditorTransaction: Undo Move Actors
+[2018.08.31-07.45.05:032][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.45.40:657][ 67]Cmd: DELETE
+[2018.08.31-07.45.40:657][ 67]Cmd: ACTOR DELETE
+[2018.08.31-07.45.40:661][ 67]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.31-07.45.40:684][ 67]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.08.31-07.45.44:808][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.45.57:687][792]Cmd: EDIT COPY
+[2018.08.31-07.45.58:002][805]Cmd: EDIT PASTE
+[2018.08.31-07.46.01:612][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.31-07.46.15:129][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.46.34:959][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.46.40:480][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.46.53:990][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.47.06:886][ 65]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.31-07.47.13:581][326]Cmd: TRANSACTION UNDO
+[2018.08.31-07.47.13:581][326]LogEditorTransaction: Undo Move Actors
+[2018.08.31-07.47.21:487][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.47.31:231][983]Cmd: TRANSACTION UNDO
+[2018.08.31-07.47.31:231][983]LogEditorTransaction: Undo Edit X
+[2018.08.31-07.47.37:820][226]Cmd: TRANSACTION UNDO
+[2018.08.31-07.47.37:820][226]LogEditorTransaction: Undo Move Actors
+[2018.08.31-07.47.40:236][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.47.53:792][816]Cmd: TRANSACTION UNDO
+[2018.08.31-07.47.53:792][816]LogEditorTransaction: Undo Set Location
+[2018.08.31-07.47.55:717][879]Cmd: TRANSACTION UNDO
+[2018.08.31-07.47.55:717][879]LogEditorTransaction: Undo Edit Y
+[2018.08.31-07.48.02:273][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.48.22:202][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.48.42:584][697]Cmd: EDIT COPY
+[2018.08.31-07.48.43:587][739]Cmd: EDIT PASTE
+[2018.08.31-07.49.01:568][460]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.31-07.49.05:512][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.49.16:344][ 41]LogEditorViewport: Clicking Background
+[2018.08.31-07.49.18:666][126]LogEditorViewport: Clicking Background
+[2018.08.31-07.49.40:472][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.49.42:255][ 35]LogSlate: Window 'Select Path' being destroyed
+[2018.08.31-07.49.42:277][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.31-07.49.42:302][ 35]LogStaticMesh: Building static mesh Cylinder_Brush_StaticMesh...
+[2018.08.31-07.49.42:315][ 35]LogStaticMesh: Built static mesh [0.01s] /Game/Cylinder_Brush_StaticMesh.Cylinder_Brush_StaticMesh
+[2018.08.31-07.49.42:324][ 35]LogActorFactory: Actor Factory created Cylinder_Brush_StaticMesh
+[2018.08.31-07.49.42:364][ 35]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CylinderBrush' is marked pending kill and cannot be converted
+[2018.08.31-07.49.42:364][ 35]EditorErrors: New page: Actor Reattachment
+[2018.08.31-07.49.43:344][ 73]Cmd: TRANSACTION UNDO
+[2018.08.31-07.49.43:344][ 73]LogEditorTransaction: Undo Convert Actors
+[2018.08.31-07.49.49:725][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.50.06:725][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.50.15:316][877]Cmd: TRANSACTION UNDO
+[2018.08.31-07.50.15:316][877]LogEditorTransaction: Undo Move Actors
+[2018.08.31-07.50.15:369][877]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CylinderBrush4.BrushComponent0) Component already registered.
+[2018.08.31-07.50.15:371][877]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush19_27.BrushComponent0) Component already registered.
+[2018.08.31-07.50.22:212][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.50.23:946][172]LogSlate: Window 'Select Path' being destroyed
+[2018.08.31-07.50.24:031][172]LogStaticMesh: Building static mesh Box_Brush31_StaticMesh...
+[2018.08.31-07.50.24:036][172]LogStaticMesh: Built static mesh [0.00s] /Game/Box_Brush31_StaticMesh.Box_Brush31_StaticMesh
+[2018.08.31-07.50.24:041][172]LogActorFactory: Actor Factory created Box_Brush31_StaticMesh
+[2018.08.31-07.50.24:080][172]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush31' is marked pending kill and cannot be converted
+[2018.08.31-07.50.24:080][172]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush30' is marked pending kill and cannot be converted
+[2018.08.31-07.50.24:080][172]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush29' is marked pending kill and cannot be converted
+[2018.08.31-07.50.24:080][172]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CylinderBrush' is marked pending kill and cannot be converted
+[2018.08.31-07.50.24:080][172]EditorErrors: New page: Actor Reattachment
+[2018.08.31-07.50.31:323][456]Cmd: DELETE
+[2018.08.31-07.50.31:323][456]Cmd: ACTOR DELETE
+[2018.08.31-07.50.31:330][456]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.50.31:377][456]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.08.31-07.50.32:343][494]Cmd: DELETE
+[2018.08.31-07.50.32:343][494]Cmd: ACTOR DELETE
+[2018.08.31-07.50.32:349][494]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.50.32:392][494]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2018.08.31-07.50.33:356][533]Cmd: DELETE
+[2018.08.31-07.50.33:356][533]Cmd: ACTOR DELETE
+[2018.08.31-07.50.33:362][533]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.50.33:403][533]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2018.08.31-07.50.34:158][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush31_StaticMesh)
+[2018.08.31-07.50.40:606][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.51.07:007][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.51.28:651][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.51.40:719][726]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.31-07.51.51:803][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.52.03:721][562]Cmd: EDIT COPY
+[2018.08.31-07.52.07:041][662]Cmd: EDIT PASTE
+[2018.08.31-07.52.25:085][351]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Box_Brush31_StaticMesh)
+[2018.08.31-07.52.26:535][406]Cmd: EDIT COPY
+[2018.08.31-07.52.26:758][415]Cmd: EDIT PASTE
+[2018.08.31-07.52.40:979][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush31_StaticMesh4)
+[2018.08.31-07.52.43:576][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush31_StaticMesh3)
+[2018.08.31-07.52.46:268][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.31-07.52.51:501][283]LogEditorViewport: Clicking Background
+[2018.08.31-07.53.08:414][960]Cmd: EDIT COPY
+[2018.08.31-07.53.09:079][986]Cmd: EDIT PASTE
+[2018.08.31-07.53.11:518][ 82]Cmd: TRANSACTION UNDO
+[2018.08.31-07.53.11:518][ 82]LogEditorTransaction: Undo Paste
+[2018.08.31-07.53.11:559][ 82]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2018.08.31-07.53.12:246][102]Cmd: TRANSACTION UNDO
+[2018.08.31-07.53.12:246][102]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.31-07.53.15:420][210]Cmd: EDIT COPY
+[2018.08.31-07.53.16:080][236]Cmd: EDIT PASTE
+[2018.08.31-07.53.19:211][356]Cmd: TRANSACTION UNDO
+[2018.08.31-07.53.19:211][356]LogEditorTransaction: Undo Move Actors
+[2018.08.31-07.53.19:248][356]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.08.31-07.53.21:284][424]Cmd: DELETE
+[2018.08.31-07.53.21:284][424]Cmd: ACTOR DELETE
+[2018.08.31-07.53.21:291][424]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.53.21:291][424]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.53.21:292][424]LogEditorActor: Deleted Actor: Brush
+[2018.08.31-07.53.21:335][424]LogEditorActor: Deleted 3 Actors (0.051 secs)
+[2018.08.31-07.53.28:315][686]Cmd: EDIT COPY
+[2018.08.31-07.53.28:561][695]Cmd: EDIT PASTE
+[2018.08.31-07.53.42:165][225]Cmd: EDIT COPY
+[2018.08.31-07.53.42:436][235]Cmd: EDIT PASTE
+[2018.08.31-07.53.49:552][506]Cmd: EDIT COPY
+[2018.08.31-07.53.49:821][514]Cmd: EDIT PASTE
+[2018.08.31-07.54.10:747][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.31-07.54.10:991][338]LogSavePackage: Moving '../../../../../../Projects/3010/Ass3/Saved/ThirdPersonExampleMap2BF7922540DAB04E87E535890721B745.tmp' to '../../../../../../Projects/3010/Ass3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.31-07.54.11:049][338]LogSavePackage: Moving '../../../../../../Projects/3010/Ass3/Saved/ThirdPersonExampleMap_BuiltData129B70304CDD2E8402376A83066B9D6C.tmp' to '../../../../../../Projects/3010/Ass3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.31-07.54.18:662][535]LogSlate: Window 'Save Content' being destroyed
+[2018.08.31-07.54.18:704][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Box_Brush30_StaticMesh" FILE="../../../../../../Projects/3010/Ass3/Content/Box_Brush30_StaticMesh.uasset" SILENT=true
+[2018.08.31-07.54.18:750][535]LogSavePackage: Moving '../../../../../../Projects/3010/Ass3/Saved/Box_Brush30_StaticMesh050048064C0EC7A75D4030849354C2BD.tmp' to '../../../../../../Projects/3010/Ass3/Content/Box_Brush30_StaticMesh.uasset'
+[2018.08.31-07.54.18:774][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Box_Brush31_StaticMesh" FILE="../../../../../../Projects/3010/Ass3/Content/Box_Brush31_StaticMesh.uasset" SILENT=true
+[2018.08.31-07.54.18:792][535]LogSavePackage: Moving '../../../../../../Projects/3010/Ass3/Saved/Box_Brush31_StaticMesh785F653340A69BC09C7E558764F3F743.tmp' to '../../../../../../Projects/3010/Ass3/Content/Box_Brush31_StaticMesh.uasset'
+[2018.08.31-07.54.18:888][535]LogSlate: Window 'Ass3 - Unreal Editor' being destroyed
+[2018.08.31-07.54.18:890][535]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.08.31-07.54.19:137][536]Cmd: QUIT_EDITOR
+[2018.08.31-07.54.19:171][536]LogExit: Preparing to exit.
+[2018.08.31-07.54.20:149][536]LogDirectoryWatcher: A directory notification failed for 'E:/Projects/3010/Ass3/Content/', and we were unable to create a new request.
+[2018.08.31-07.54.20:197][536]LogExit: Editor shut down
+[2018.08.31-07.54.20:204][536]LogExit: Transaction tracking system shut down
+[2018.08.31-07.54.20:679][536]LogExit: Object subsystem successfully closed.
+[2018.08.31-07.54.20:719][536]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.31-07.54.20:723][536]LogD3D11RHI: Shutdown
+[2018.08.31-07.54.20:723][536]LogD3D11RHI: CleanupD3DDevice
+[2018.08.31-07.54.20:725][536]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.31-07.54.20:737][536]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (614)
+[2018.08.31-07.54.20:737][536]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2018.08.31-07.54.20:737][536]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.08.31-07.54.20:737][536]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.08.31-07.54.20:737][536]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.08.31-07.54.20:737][536]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.08.31-07.54.20:737][536]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.08.31-07.54.20:738][536]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.08.31-07.54.20:739][536]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.08.31-07.54.20:772][536]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.08.31-07.54.20:772][536]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.08.31-07.54.20:772][536]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.08.31-07.54.20:772][536]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.08.31-07.54.20:772][536]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.08.31-07.54.20:772][536]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.08.31-07.54.20:772][536]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.08.31-07.54.20:772][536]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.08.31-07.54.20:773][536]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.08.31-07.54.20:831][536]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.08.31-07.54.20:832][536]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.08.31-07.54.20:833][536]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.08.31-07.54.20:833][536]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.08.31-07.54.20:833][536]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.08.31-07.54.20:833][536]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.08.31-07.54.20:833][536]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.08.31-07.54.20:927][536]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.08.31-07.54.20:927][536]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.08.31-07.54.20:927][536]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.08.31-07.54.20:927][536]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.08.31-07.54.20:927][536]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.08.31-07.54.20:927][536]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.08.31-07.54.20:927][536]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.08.31-07.54.20:927][536]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.08.31-07.54.20:928][536]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.08.31-07.54.20:928][536]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.08.31-07.54.20:928][536]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.08.31-07.54.20:928][536]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.08.31-07.54.20:928][536]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.08.31-07.54.20:928][536]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.08.31-07.54.20:928][536]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.08.31-07.54.20:928][536]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.08.31-07.54.20:928][536]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.08.31-07.54.20:928][536]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.08.31-07.54.20:932][536]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.08.31-07.54.20:933][536]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.08.31-07.54.21:034][536]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.08.31-07.54.21:135][536]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.08.31-07.54.21:135][536]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.08.31-07.54.21:135][536]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.08.31-07.54.21:135][536]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.08.31-07.54.21:135][536]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.08.31-07.54.21:135][536]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.08.31-07.54.21:135][536]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.08.31-07.54.21:135][536]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.08.31-07.54.21:136][536]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.08.31-07.54.21:136][536]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.08.31-07.54.21:136][536]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.08.31-07.54.21:136][536]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.08.31-07.54.21:137][536]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.08.31-07.54.21:137][536]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.08.31-07.54.21:137][536]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.08.31-07.54.21:137][536]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.08.31-07.54.21:137][536]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.08.31-07.54.21:137][536]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.08.31-07.54.21:144][536]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.08.31-07.54.21:152][536]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.08.31-07.54.21:154][536]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.08.31-07.54.21:177][536]LogDerivedDataCache: Shutdown
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.08.31-07.54.21:178][536]LogXGEController: Cleaning working directory: C:/Users/msb92/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.08.31-07.54.21:178][536]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.08.31-07.54.21:179][536]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.08.31-07.54.21:179][536]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.08.31-07.54.21:180][536]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.08.31-07.54.21:180][536]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.08.31-07.54.21:188][536]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.08.31-07.54.21:191][536]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.08.31-07.54.21:191][536]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.08.31-07.54.21:194][536]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.08.31-07.54.21:194][536]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.31-07.54.21:194][536]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFF288D24-4E4A-9888-7CBA-95A593875377%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=6960d5984ae5fe073eeba48a02565021%7Cbd0a2e7aaf4e4636a64664918b1571e7%7C373f858c-8745-46c9-b1e5-aad2b69b5291&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.31-07.54.21:226][536]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.08.31-07.54.21:228][536]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.08.31-07.54.21:228][536]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.08.31-07.54.21:228][536]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.08.31-07.54.21:228][536]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.08.31-07.54.21:228][536]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.08.31-07.54.21:228][536]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.08.31-07.54.21:228][536]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.08.31-07.54.21:228][536]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.08.31-07.54.21:228][536]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.08.31-07.54.21:228][536]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.31-07.54.21:228][536]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.08.31-07.54.21:228][536]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.31-07.54.21:228][536]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.31-07.54.21:229][536]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.31-07.54.21:241][536]LogExit: Exiting.
+[2018.08.31-07.54.21:268][536]Log file closed, 08/31/18 01:54:21
